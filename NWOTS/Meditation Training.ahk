@@ -6,7 +6,7 @@
 		; wait until ball is position
 		sleep 800
 		
-		; smack that hoe
+		; smack that log
 		loop 6 {
 		ControlSend, Static7, {space}, Way of the Shinobi 3.3.1.5
 		}
